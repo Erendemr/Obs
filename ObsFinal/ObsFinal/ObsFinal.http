@@ -1,0 +1,6 @@
+@ObsFinal_HostAddress = http://localhost:5033
+
+GET {{ObsFinal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
