@@ -1,0 +1,13 @@
+.d-flex {
+
+    background-color: rgb(255, 255, 255);
+}
+.card {
+    background-color: rgb(158, 211, 125);
+    border-radius: 30px;
+    
+}
+.me-2 {
+    margin-right: 5px;
+    
+}
